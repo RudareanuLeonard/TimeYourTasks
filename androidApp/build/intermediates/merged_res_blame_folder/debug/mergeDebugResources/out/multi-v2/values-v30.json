@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.timeyourtasks.android.androidApp-mergeDebugResources-44:/values-v30/values-v30.xml",
+            "outputFile": "com.example.timeyourtasks.android.androidApp-mergeDebugResources-50:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/home/vox/.gradle/caches/8.11.1/transforms/61b7647b50e522d61d74a161bbab2bdd/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "source": "/home/vox/.gradle/caches/8.11.1/transforms/2e6bc4a1f43e830412df4e2712a4772f/transformed/material3-release/res/values-v30/values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

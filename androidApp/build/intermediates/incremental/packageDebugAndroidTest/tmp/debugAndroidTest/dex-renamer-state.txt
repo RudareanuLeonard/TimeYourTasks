@@ -1,4 +1,4 @@
-#Sat May 03 13:06:14 EEST 2025
+#Mon May 05 19:23:39 EEST 2025
 base.0=/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
 path.0=0/classes.dex
 renamed.0=classes.dex

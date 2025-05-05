@@ -3,32 +3,32 @@
 3    package="com.example.timeyourtasks.android.test" >
 4
 5    <uses-sdk
-5-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:5:5-74
+5-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:5:5-74
 6        android:minSdkVersion="24"
-6-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:5:15-41
+6-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:5:15-41
 7        android:targetSdkVersion="35" />
-7-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:5:42-71
+7-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:5:42-71
 8
 9    <instrumentation
-9-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:11:5-15:83
+9-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:11:5-15:83
 10        android:name="android.test.InstrumentationTestRunner"
-10-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:11:22-75
+10-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:11:22-75
 11        android:functionalTest="false"
-11-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:14:22-52
+11-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:13:22-53
+12-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:13:22-53
 13        android:label="Tests for com.example.timeyourtasks.android"
-13-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:15:22-81
+13-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:15:22-81
 14        android:targetPackage="com.example.timeyourtasks.android" />
-14-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:12:22-79
+14-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:12:22-79
 15
 16    <application
-16-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:7:5-9:19
+16-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:7:5-9:19
 17        android:debuggable="true"
 18        android:extractNativeLibs="false" >
 19        <uses-library android:name="android.test.runner" />
-19-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:8:9-60
-19-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9260941783629543823.xml:8:23-57
+19-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:8:9-60
+19-->/home/vox/Desktop/Projects/TimeYourTasks/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9775170950900206086.xml:8:23-57
 20    </application>
 21
 22</manifest>
